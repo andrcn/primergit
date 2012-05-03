@@ -1,0 +1,4 @@
+primergit
+=========
+
+empezando con git
